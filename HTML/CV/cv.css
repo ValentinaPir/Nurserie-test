@@ -1,0 +1,27 @@
+header{
+    background-color:aquamarine;
+    height: 100px;
+}
+h1{
+    text-align: left;
+}
+
+div{
+    background-color: gainsboro;
+    display: flex;
+}
+
+.avatar{
+    margin-left: 94%;
+    margin-top: -3%;
+}
+
+.sec1, .sec2, .sec3{
+    border: 2px solid rgb(31, 30, 30);
+    background-color: aliceblue;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left:4%;
+    margin-right: 4%;
+    width: 30%;
+}
