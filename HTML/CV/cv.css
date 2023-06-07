@@ -1,5 +1,5 @@
 header{
-    background-color:aquamarine;
+    background-color:rgb(29, 223, 158);
     height: 100px;
 }
 h1{
@@ -7,7 +7,7 @@ h1{
 }
 
 div{
-    background-color: gainsboro;
+    background-color: rgb(214, 218, 215);
     display: flex;
 }
 
@@ -17,8 +17,8 @@ div{
 }
 
 .sec1, .sec2, .sec3{
-    border: 2px solid rgb(31, 30, 30);
-    background-color: aliceblue;
+    border: 2px;
+    background-color: rgb(230, 247, 225);
     margin-top: 5%;
     margin-bottom: 10%;
     margin-left:4%;
